@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Passionate **.NET Core Developer** with 3+ years of experience in building scalable enterprise web applications and APIs.  
+- 💻 Passionate **.NET Core Developer** with 4.5+ years of experience in building scalable enterprise web applications and APIs.  
 - 🔭 Currently working at **Microware Computing & Consulting Pvt. Ltd.** on healthcare projects like *iWIN, CAHP, WeCare,* and *Child Care Management System*.  
 - ⚙️ Skilled in **C#, ASP.NET Core, Entity Framework, SQL Server, ReactJS, and Azure**.  
 - 🌱 Constantly learning **Clean Architecture**, **Microservices**, and **Azure DevOps** to improve scalability and performance.  
